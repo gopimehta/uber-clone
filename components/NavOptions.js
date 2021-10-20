@@ -15,19 +15,7 @@ const data = [
     id: "456",
     title: "Order food",
     image: "https://links.papareact.com/28w",
-    screen: "EatsScreen", //change in future
-  },
-  {
-    id: "133",
-    title: "Get a ride",
-    image: "https://links.papareact.com/3pn",
-    screen: "MapScreen",
-  },
-  {
-    id: "426",
-    title: "Order food",
-    image: "https://links.papareact.com/28w",
-    screen: "EatsScreen", //change in future
+    screen: "Login", //change in future
   },
 ];
 
